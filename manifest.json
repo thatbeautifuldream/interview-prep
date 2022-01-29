@@ -1,6 +1,14 @@
 {
-  "name": "interview-prep",
+  "name": "Interview Prep",
   "version": "0.0.1",
   "description": "Built to help people in their interview preparation journey",
-  "manifest_version": 2
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "images/icon.png",
+    "default_title": "Interview Prep"
+  },
+  "icons": {
+    "128": "images/icon.png"
+  }
 }

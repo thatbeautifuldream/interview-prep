@@ -1,0 +1,6 @@
+{
+  "name": "interview-prep",
+  "version": "0.0.1",
+  "description": "Chrome extension built to help people in their interview preparation journey",
+  "manifest_version": 2
+}
